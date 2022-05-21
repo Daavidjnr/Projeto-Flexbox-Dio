@@ -1,2 +1,5 @@
 # Projeto-Flexbox-Dio
-Projeto Flexbox - DIO
+
+
+- Criando projeto utilizando elementos flexbox.
+- Melhorando a responsividade.
